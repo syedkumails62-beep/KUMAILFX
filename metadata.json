@@ -1,0 +1,6 @@
+{
+  "name": "KUMAILFX — Forex & Binary Order Flow Academy",
+  "description": "Professional Forex & Binary Trading education covering Non-OTC EURUSD, Tradovate Futures Order Flow, Tradfye, ICT, and Smart Money Concepts by Syed Kumail Abbas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
